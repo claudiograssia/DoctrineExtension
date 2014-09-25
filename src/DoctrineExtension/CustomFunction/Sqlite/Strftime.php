@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: root
- * Date: 25/09/14
- * Time: 16.09
- */
+
 
 namespace DoctrineExtension\CustomFunction\Sqlite;
 
