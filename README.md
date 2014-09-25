@@ -1,6 +1,8 @@
 DoctrineExtension
 =================
 
+Module for ZF2 - Doctrine
+
 Add function to Doctrine for sqlite 
 
 STRFTIME
