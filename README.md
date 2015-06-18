@@ -10,6 +10,9 @@ STRFTIME
 $entityManager->getConfiguration()->addCustomDatetimeFunction('STRFTIME', "DoctrineExtension\CustomFunction\Sqlite\Strftime");
 ```
 # Installation
+With [Composer](http://getcomposer.org/), to include this library into your
+dependencies, you need to require 
+
 ```json
 {
   "require": {
