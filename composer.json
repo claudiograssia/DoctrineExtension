@@ -1,33 +1,22 @@
 {
-    "name":"claudiograssia/DoctrineExtension",
+    "name":"claudiograssia/doctrineextension",
     "type":"library",
     "keywords": [
         "framework",
         "zend",
         "sqlite"
-    ]
+    ],
+    "minimum-stability": "dev-master",
     "authors": [
         {
             "name":"Claudio Grassia",
             "email":"claudiograssia0000@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type" :"package",
-            "package" : {
-                "name": "claudiograssia/doctrineextension",
-                "version": "0.0.1"
-            }
-        }    
-    ]
     "autoload": {
         "psr-0": {
             "DoctrineExtension\\": "src/"
-        },
-        "classmap": [
-            "./Module.php"
-        ]
+        }
     }
 
 }
