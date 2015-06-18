@@ -1,5 +1,4 @@
-DoctrineExtension
-=================
+# DoctrineExtension
 
 Module for ZF2 - Doctrine
 
@@ -10,3 +9,10 @@ STRFTIME
 ```php
 $entityManager->getConfiguration()->addCustomDatetimeFunction('STRFTIME', "DoctrineExtension\CustomFunction\Sqlite\Strftime");
 ```
+# Installation
+```json
+{
+  "require": {
+    "claudiograssia/doctrineextension": "dev-master"
+  }
+}
