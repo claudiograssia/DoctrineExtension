@@ -6,7 +6,7 @@
         "zend",
         "sqlite"
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name":"Claudio Grassia",
