@@ -3,7 +3,7 @@
     "type":"library",
     "keywords": [
         "framework",
-        "zend",
+        "zend 2",
         "sqlite"
     ],
     "minimum-stability": "dev",
