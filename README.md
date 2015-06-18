@@ -7,4 +7,6 @@ Add function to Doctrine for sqlite
 
 STRFTIME
 
+```php
 $entityManager->getConfiguration()->addCustomDatetimeFunction('STRFTIME', "DoctrineExtension\CustomFunction\Sqlite\Strftime");
+```
